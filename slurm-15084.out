@@ -1,0 +1,13 @@
+GPU Benchmark
+Particles: 1000
+0.15 seconds
+Particles: 10000
+0.37 seconds
+Particles: 100000
+9.30 seconds
+CPU Benchmark
+Particles: 1000
+0.38 seconds
+Particles: 10000
+6.47 seconds
+Particles: 100000

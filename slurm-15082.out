@@ -1,0 +1,20 @@
+GPU Benchmark
+Particles: 1000
+0.21 seconds
+Particles: 10000
+0.40 seconds
+Particles: 100000
+9.24 seconds
+CPU Benchmark
+Particles: 1000
+/usr/bin/time: cannot run ./nbody: No such file or directory
+Command exited with non-zero status 127
+0.00 seconds
+Particles: 10000
+/usr/bin/time: cannot run ./nbody: No such file or directory
+Command exited with non-zero status 127
+0.00 seconds
+Particles: 100000
+/usr/bin/time: cannot run ./nbody: No such file or directory
+Command exited with non-zero status 127
+0.00 seconds
